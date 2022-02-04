@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzureOrange404, but jsut call me Azure.
-- 👀 I’m interested in linux, self-hosting and lots of stuff not associated with it.
+- 👀 I’m interested in linux, self-hosting and lots of stuff not associated with IT.
 - 🌱 Currently I'm learning to self-host a RPi microserver with nextcloud, jellyfin etc. and to set up a clean debian install. ;)
 - 💞️ I’m looking to collaborate on everything, where an opportunity presents itself.
 - 📫 You may reach me over my email address: azureorange404@protonmail.com
